@@ -1,5 +1,8 @@
 ## Preview
-![Calculator Preview](screenshot.png)
+![Calculator Preview](screenshot.png/dark-theme.jpeg)
+![Calculator Preview](screenshot.png/light-theme.jpeg)
+
+
 
 # Beginner-Friendly Calculator
 
