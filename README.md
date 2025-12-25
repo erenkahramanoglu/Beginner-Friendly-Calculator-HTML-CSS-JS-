@@ -20,3 +20,7 @@ A clean and interactive calculator application built with HTML, CSS, and JavaScr
 
 ## Purpose
 This project was created to practice core frontend development skills.
+
+## Live Demo
+🔗[ https://kullaniciadi.github.io/repo-adi/](https://erenkahramanoglu.github.io/Beginner-Friendly-Calculator-HTML-CSS-JS-/)
+
