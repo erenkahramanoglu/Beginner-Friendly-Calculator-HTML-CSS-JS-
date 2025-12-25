@@ -1,3 +1,6 @@
+## Preview
+![Calculator Preview](screenshot.png)
+
 # Beginner-Friendly Calculator
 
 A clean and interactive calculator application built with HTML, CSS, and JavaScript.
